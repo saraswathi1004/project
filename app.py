@@ -110,7 +110,7 @@ html, body {
 .stTextInput>div>div>input {
     border-radius: 10px;
     border: 2px solid #e74c3c;
-    background-color: #34495e;
+    background-color: white;
     color: white;
 }
 .stTextArea>div>textarea {
