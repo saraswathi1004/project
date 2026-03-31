@@ -126,7 +126,7 @@ html, body {
 </style>
 """, unsafe_allow_html=True)
 
-st.image("https://via.placeholder.com/800x200/000000/FFFFFF?text=Geo+Tag+Complaint+Management+System", width=800)
+st.image("logo.jpeg")
 st.title("St peter's college of engineering and technology")
 st.title("College complaint management system")
 
