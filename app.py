@@ -127,7 +127,6 @@ html, body {
 """, unsafe_allow_html=True)
 
 st.image("logo.jpeg", use_container_width=True)
-st.title("St peter's college of engineering and technology")
 st.title("College complaint management system")
 
 # Load data
