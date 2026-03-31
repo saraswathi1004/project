@@ -111,7 +111,7 @@ html, body {
     border-radius: 10px;
     border: 2px solid #e74c3c;
     background-color: white;
-    color: white;
+    color: black;
 }
 .stTextArea>div>textarea {
     border-radius: 10px;
