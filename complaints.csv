@@ -1,0 +1,26 @@
+id,title,description,address,lat,lng,timestamp,image_path,user_id,status,admin_reply
+
+24,electricity issue,not working,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110644501001197,80.11792605347598,2026-02-09T12:01:08.254913,images/complaint_24.png,3.0,pending,
+23,electricity issue,not working,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110644501001197,80.11792605347598,2026-02-09T12:00:56.480435,images/complaint_23.png,3.0,pending,
+22,electricity issue,not working,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110644501001197,80.11792605347598,2026-02-09T12:00:48.276198,images/complaint_22.png,3.0,pending,
+21,electricity issue,not working,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110723727194118,80.1180940298314,2026-02-09T11:04:06.279027,images/complaint_21.png,3.0,pending,
+20,drinking water,drinking water is not working,"Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110846576204777,80.11784489788863,2026-01-19T14:16:04.668735,images/complaint_20.png,3.0,pending,
+19,drinking water,drinking water is not working,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110621639091644,80.11831469978372,2026-01-19T09:32:21.209285,images/complaint_19.png,3.0,approved,The issue will be solved in two days
+18,dress ,dress,"St.Peter’s Institute of Higher Education and Research,Avadi,, Ambattur - Avadi Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.110354112991969,80.11770904307241,2026-01-13T14:43:03.338590,images/complaint_18.png,3.0,pending,
+17,furniture damage,damage,"Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India",13.1108094,80.1167112,2026-01-13T14:34:51.957966,,3.0,pending,
+16,cleaning ,issue cleaning,"Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India",13.0387305,80.1927943,2026-01-12T17:28:28.606655,images/complaint_16.png,3.0,pending,
+15,Not Clean,Classroom Not Clean,"Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India",13.0387274,80.1927503,2026-01-12T13:17:22.946258,images/complaint_15.png,2.0,approved,Ok we clean to us
+14,validation testing ,Area Validation,"Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India",13.0387259,80.1927443,2026-01-12T12:18:00.815440,images/complaint_14.png,0.0,pending,
+13,validation testing ,Area Validation,"Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India",13.038727,80.1927836,2026-01-12T12:15:25.990219,images/complaint_13.png,0.0,pending,
+12,Arun,Testing,"Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India",13.0387299,80.1927433,2026-01-12T12:08:24.292819,,0.0,pending,
+11,Session,Session Not Going ,600078,13.0401734,80.1997398,2026-01-12T12:03:52.554851,images/complaint_11.png,0.0,pending,
+10,Session,Session Not Going ,600078,13.0401734,80.1997398,2026-01-12T12:03:31.319248,images/complaint_10.png,0.0,pending,
+9,Session,Session Not Going ,600076,39.6779588,-8.9193133,2026-01-12T12:03:17.457574,images/complaint_9.png,0.0,pending,
+8,Session,Session Not Going ,600078,13.0401734,80.1997398,2026-01-12T12:02:20.441173,images/complaint_8.png,0.0,pending,
+7,given data ,Given Data for Arrival,"Mgr nagar ,chennai,600078",13.0364268,80.2017334,2026-01-12T11:56:29.726552,,0.0,pending,
+6,given data ,Given Data for Arrival,"Mgr nagar ,chennai,60078",12.9795827,80.2494441,2026-01-12T11:56:19.388132,,0.0,pending,
+5,given data ,Given Data for Arrival,"Mgr nagar ,chennai,60078",12.9795827,80.2494441,2026-01-12T11:56:17.337553,,0.0,pending,
+4,given data ,Given Data for Arrival,"Mgr nagar ,chennai,60078",12.9795827,80.2494441,2026-01-12T11:56:13.136270,,0.0,pending,
+3,Classroom Cleaning,not proper clean,"Nesapakkam,Chennai, Tamil Nadu 600078",13.0336193,80.1873092,2026-01-12T11:53:53.483178,,0.0,pending,
+2,Classroom Cleaning,not proper clean,"Nesapakkam,Chennai, Tamil Nadu 600078",13.0336193,80.1873092,2026-01-12T11:53:03.386646,,0.0,pending,
+1,Classroom Cleaning,not proper clean,"Chennai, Tamil Nadu 600078",13.0836939,80.270186,2026-01-12T11:52:28.442219,,0.0,approved,
